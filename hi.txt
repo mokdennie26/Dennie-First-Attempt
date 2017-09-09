@@ -6,4 +6,4 @@
 		that is completly difficult called Git, which is
 		a version and resource control system... a distributed
 		one stored a copy on your computer and a remote repository
-		liek github.
+		like github.
